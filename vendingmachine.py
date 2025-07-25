@@ -5,7 +5,7 @@ items = {
     "A1": {"name": "Coca-Cola", "price": 1.5},
     "A2": {"name": "Pepsi", "price": 1.4},
     "A3": {"name": "Karak Chai", "price": 1.5},
-    "A4": {"name": "Rani Float", "price": 1.5},
+    "A4": {"name": "Rani Float", "price": 1.5},;
 
     # Chips and crispy snacks
     "B1": {"name": "Lays Chips", "price": 1.2},
